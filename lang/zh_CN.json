@@ -5,12 +5,12 @@
         "Username": "用户名",
         "First_Name": "名",
         "Last_Name": "姓",
-        "Abbreviated_Name": "名字缩写",
+        "Abbreviated_Name": "姓名缩写",
         "Pronouns": "人称",
         "Pronouns_Forum": "在讨论区显示人称",
         "Primary_Email": "常用电子邮箱",
         "Secondary_Email": "备用电子邮箱",
-        "Send_Email": "发送邮件到备用邮箱",
+        "Send_Email": "发送邮件至备用邮箱",
         "Access_Level": "先修条件",
         "Upload_profile_photo": "上传资料照片"
     }
